@@ -30,4 +30,11 @@ public class AsssignVolunteer {
         System.out.println("The volunteer who will price this item is " + volunteer);
     }
     
+    protected static double uselessMethod()
+    {
+        double rand = 0.0;
+        
+        return rand;
+    }
+    
 }
